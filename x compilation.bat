@@ -1,0 +1,1 @@
+pyinstaller -w -F -i "C:\Users\vxv\Documents\vxvPy\Mainproga\BalkaPro\iconBalka1.ico" BalkaPro.py
